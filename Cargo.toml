@@ -3,3 +3,6 @@ name = "sysinfo"
 version = "0.1.0"
 authors = ["Jonas Horstmann <jonas_horstmann@avalance.ai>"]
 edition = "2018"
+
+[dependencies]
+thiserror = "1"
